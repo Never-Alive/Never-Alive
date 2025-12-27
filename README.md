@@ -21,18 +21,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Never-Alive&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Never-Alive&theme=dark&hide_border=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Never-Alive&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
----
-
 ### 👀 Visitor Count and Contact me
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Never-Alive&label=Visitors&color=0e75b6&style=for-the-badge" alt="profile views" />
